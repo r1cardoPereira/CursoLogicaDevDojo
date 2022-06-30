@@ -1,7 +1,7 @@
 package src;
 
 import java.util.Scanner;
-
+//AULA 21 ( OR ) DEVDOJO...
 public class TorneioDeNatacao {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
