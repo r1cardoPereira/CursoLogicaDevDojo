@@ -1,4 +1,4 @@
-package src.academy.devdojo.estruturasCondicionais;
+package src.academy.devdojo.lacosderepeticao;
 
 import java.util.Scanner;
 
