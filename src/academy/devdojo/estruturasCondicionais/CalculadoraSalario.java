@@ -1,3 +1,5 @@
+package src.academy.devdojo.estruturasCondicionais;
+
 import java.util.Scanner;
 
 public class CalculadoraSalario {

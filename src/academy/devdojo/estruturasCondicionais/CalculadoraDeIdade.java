@@ -1,3 +1,5 @@
+package src.academy.devdojo.estruturasCondicionais;
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-//CODIGO COPIADO
+package src.academy.devdojo.variaveis;//CODIGO COPIADO
 
 import java.util.Scanner;
 import java.text.DecimalFormat;

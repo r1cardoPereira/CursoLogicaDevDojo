@@ -1,3 +1,5 @@
+package src.academy.devdojo.variaveis;
+
 public class OlaMundoo {
     public static void main (String... args){
         int a = 123 ;

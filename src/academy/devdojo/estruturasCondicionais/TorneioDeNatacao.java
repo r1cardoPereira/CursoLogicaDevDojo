@@ -1,4 +1,4 @@
-package src;
+package src.academy.devdojo.estruturasCondicionais;
 
 import java.util.Scanner;
 //AULA 21 ( OR ) DEVDOJO...
